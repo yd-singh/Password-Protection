@@ -1,0 +1,14 @@
+.DS_Store
+.gradle/
+.kotlin/
+.idea/
+*.iml
+build/
+local.properties
+*.apk
+*.aab
+*.ppvault
+*.jks
+*.keystore
+vault.v1*
+*.bak
